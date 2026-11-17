@@ -109,10 +109,10 @@ pull request conventions and the rules for AI-assisted contributions. Coding age
 [AGENTS.md](AGENTS.md). Security problems go through [SECURITY.md](SECURITY.md), never a public
 issue.
 
-## Copyright
+## Titularidad / Copyright
 
-Gestionador de Clientes is copyright © 2026 Gabriel Natalucci. All rights reserved.
+**Titular: Gabriel Natalucci.** © 2026 Gabriel Natalucci. All rights reserved.
 
-The source code is hosted in the GitHub account
-[@joaquinmuzzi](https://github.com/joaquinmuzzi) for operational reasons (hosting and access)
-only. Hosting the repository there does not transfer copyright or ownership of the software.
+Gabriel Natalucci is the copyright holder and owner of Gestionador de Clientes. The source code is
+hosted in the GitHub account [@joaquinmuzzi](https://github.com/joaquinmuzzi) for operational
+reasons (hosting and access) only; hosting does not transfer copyright or ownership.

@@ -42,8 +42,8 @@ chmod 600 .env
 El repositorio es privado: clonalo con una deploy key de solo lectura o con un token
 fine-grained limitado a este repositorio.
 
-La titularidad del software es de Gabriel Natalucci. La cuenta de GitHub donde está alojado el
-repositorio solo lo hospeda y administra el acceso; eso no cambia la titularidad.
+**Titular: Gabriel Natalucci.** La cuenta de GitHub donde está alojado el repositorio solo lo
+hospeda y administra el acceso; eso no cambia la titularidad.
 
 Completá `.env`:
 
