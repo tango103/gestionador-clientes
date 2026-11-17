@@ -25,8 +25,9 @@ Examples of problems we want to hear about:
 
 ## Reporting a vulnerability
 
-Please **do not open an issue**. Report it privately to the maintainer,
-[@joaquinmuzzi](https://github.com/joaquinmuzzi), or draft a
+Please **do not open an issue**. Report it privately to the copyright holder, Gabriel Natalucci,
+through the repository owner [@joaquinmuzzi](https://github.com/joaquinmuzzi), who hosts the
+project and forwards reports, or draft a
 [security advisory](https://github.com/joaquinmuzzi/gestionador-clientes/security/advisories/new)
 if you have access to the repository.
 

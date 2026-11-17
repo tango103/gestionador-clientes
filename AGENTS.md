@@ -348,3 +348,11 @@ msinfo32), importing draw.io diagrams, version history of passwords.
 Ask before irreversible or production-affecting actions and before decisions that need
 information you cannot find in the repository. Do not ask about details you can determine from
 the code.
+
+## 13. Ownership and legal wording
+
+Gestionador de Clientes is copyright © 2026 Gabriel Natalucci. The GitHub repository is hosted in
+the [@joaquinmuzzi](https://github.com/joaquinmuzzi) account for operational reasons (hosting and
+access) only; that does not make Joaquín Muzzi the copyright holder or the author. When writing or
+reviewing legal notices, licence text or documentation about ownership, name Gabriel Natalucci as
+the owner of the software and describe the GitHub account as its host.

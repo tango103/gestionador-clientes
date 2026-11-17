@@ -4,6 +4,10 @@ This guide explains how to set up a development environment, which checks to run
 changes. By taking part you agree to follow the [Code of Conduct](CODE_OF_CONDUCT.md). Coding
 agents also follow [AGENTS.md](AGENTS.md), which records the project's rules in more detail.
 
+The copyright in Gestionador de Clientes belongs to Gabriel Natalucci. By contributing, you grant
+the copyright holder the right to use, modify and distribute your contribution as part of the
+project.
+
 ## Ways to contribute
 
 - **Report a bug** (a page breaks, the login fails, something is saved wrong) with the

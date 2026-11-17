@@ -11,9 +11,11 @@ discrimination and personal attacks are not acceptable.
 
 ## Reporting
 
-If you experience or witness behaviour that breaks this code of conduct, tell the maintainer,
-[@joaquinmuzzi](https://github.com/joaquinmuzzi), privately. Reports are handled privately and as
-quickly as possible, and the person who reports is protected from retaliation.
+If you experience or witness behaviour that breaks this code of conduct, tell the copyright
+holder, Gabriel Natalucci, privately through the repository owner
+[@joaquinmuzzi](https://github.com/joaquinmuzzi), who hosts the project and forwards reports.
+Reports are handled privately and as quickly as possible, and the person who reports is protected
+from retaliation.
 
-The maintainer decides on the consequences following the enforcement guidelines of the
+The project owners decide on the consequences following the enforcement guidelines of the
 Contributor Covenant: from a private warning to a temporary or permanent ban from the project.

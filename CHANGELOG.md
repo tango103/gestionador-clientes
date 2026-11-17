@@ -88,3 +88,5 @@ behaviour).
   bottom of the map with its fields as a property grid.
 - The server documents (`docs/deployment.md`, `docs/backups.md`) are now in Spanish, like the rest
   of `docs/`, and refer to "el usuario" instead of a named person.
+- Ownership: the copyright of the software is attributed to Gabriel Natalucci; the GitHub account
+  hosting the repository is described as its host, not its owner.
