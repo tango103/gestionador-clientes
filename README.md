@@ -116,3 +116,6 @@ issue.
 Gabriel Natalucci is the copyright holder and owner of Gestionador de Clientes. The source code is
 hosted in the GitHub account [@joaquinmuzzi](https://github.com/joaquinmuzzi) for operational
 reasons (hosting and access) only; hosting does not transfer copyright or ownership.
+
+The written assignment of rights from Joaquín Muzzi to Gabriel Natalucci is in
+[NOTICE.md](NOTICE.md).

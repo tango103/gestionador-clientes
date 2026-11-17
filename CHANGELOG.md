@@ -89,4 +89,5 @@ behaviour).
 - The server documents (`docs/deployment.md`, `docs/backups.md`) are now in Spanish, like the rest
   of `docs/`, and refer to "el usuario" instead of a named person.
 - Ownership: Gabriel Natalucci is recorded as the titular and copyright holder of the software;
-  the GitHub account hosting the repository is described as its host, not its owner.
+  the GitHub account hosting the repository is described as its host, not its owner. A written
+  assignment in [NOTICE.md](NOTICE.md) transfers Joaquín Muzzi's economic copyright to him.

@@ -356,4 +356,5 @@ owner of the software. The GitHub repository is hosted in the
 [@joaquinmuzzi](https://github.com/joaquinmuzzi) account for operational reasons (hosting and
 access) only; hosting does not transfer copyright or ownership. When writing or reviewing legal
 notices, licence text or documentation about ownership, name Gabriel Natalucci as the titular (the
-copyright holder) and describe the GitHub account as its host.
+copyright holder) and describe the GitHub account as its host. The written assignment of rights is
+in [NOTICE.md](NOTICE.md); read it before drafting legal text.
